@@ -5,8 +5,8 @@ title: "SEJONG UNIVERSITY
 	NUCLEAR PHYSICS LAB"
 description: ""
 meta_description: "mtea_description"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/samplelogo.jpg'
+favicon: 'assets/images/ex_logo.jpg'
 paginate: 12
 baseurl: '/'
 email: 'lsyeong99@sju.ac.kr'
