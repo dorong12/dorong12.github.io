@@ -12,8 +12,12 @@
         <div class="col-md-7">
             <div class="card-block">
                 <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                
+                <h2 class="card-title" style="font-size: 1em"><a href="{{ post.url | absolute_url }}">{{ post.company }}</a></h2>
+
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
-                <div class="metafooter">
+                
+               <!--  <div class="metafooter">
                     <div class="wrapfooter">
                         {% if post.author %}
                         <span class="meta-footer-thumb">
@@ -27,7 +31,8 @@
                         <span class="post-read-more"><a href="{{ post.url | absolute_url }}" title="Read Story"><i class="fa fa-link"></i></a></span>
                         <div class="clearfix"></div>
                     </div>
-                </div>
+                </div> -->
+
             </div>
         </div>
     </div>
