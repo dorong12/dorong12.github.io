@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Something about Proejct"
+title:  "Something about Project"
 author: King
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
