@@ -1,5 +1,5 @@
 ---
-layout: Proejct
+layout: post
 title:  "Markdown Example"
 author: john
 categories: [ Jekyll, tutorial ]
