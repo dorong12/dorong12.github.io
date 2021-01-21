@@ -10,8 +10,8 @@ comments: false
 * * *
 ## 2019
 * * *
-> **Summary of LAMPS**, The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]   
-> **Flow of heavy quarks in Pb+Pb and p+Pb collisions in the CMS experiment**, 2019 KPS Spring Meeting(한국물리학회) [2019.04]   
+> **Summary of LAMPS**, ##### The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]   
+> **Flow of heavy quarks in Pb+Pb and p+Pb collisions in the CMS experiment**, ##### 2019 KPS Spring Meeting(한국물리학회) [2019.04]   
 > **Measurement of bottomonia in pp, pPb and PbPb collisions at 5.02 TeV with the CMS detector**, Initial Stages 2019(Brookhaven National Laboratory (DOE))[2019.06]   
 > **Review of quarkonia measurements in recent heavy ion experiments at the LHC, and the prospective results**, HaPhy-CENum joint workshop: The future of lattice studies in Korea(APCTP, CENum 공동개최 [2019-09]   
 > **Physics goals and detector setup for the low energy LAMPS**, NuSYM2019 - International Symposium on Nuclear Symmetry Energy(Asian Nuclear Physics Association [2019.10]   
