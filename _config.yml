@@ -4,9 +4,9 @@ title: "SEJONG UNIVERSITY NUCLEAR PHYSICS LAB"
 description: "this is description"
 meta_description: "mtea_description"
 logo: 'assets/images/sejonglogo.png'
-favicon: 'assets/images/newfavicon.png'
+favicon: 'assets/images/favicon-16x16.png'
 paginate: 12
-url: https://dorong12.github.io/
+url: 'https://dorong12.github.io/'
 baseurl: '/'
 email: 'lsyeong99@sju.ac.kr'
 #google_analytics: 'UA-46278016-1'
