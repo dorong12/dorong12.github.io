@@ -25,7 +25,7 @@ comments: false
 * * *
 ## 2018
 * * *
-> **The Detector Development and Physics Program in sPHENIX Experiment**, 한국 물리학회 가을 학술대회(한국 물리학회 , Korean Physical Society) [2018.10]   
-> **Measurement of Jet Substructure ni Heavy Ion Experiments**, The 7th Asian Triangle Heavy-Ion Conference (ATHIC)(ATHIC) [2018.11]   
-> **Study of Jet Substructure in heavy ion collisions**, Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]   
+**The Detector Development and Physics Program in sPHENIX Experiment**, 한국 물리학회 가을 학술대회(한국 물리학회 , Korean Physical Society) [2018.10]   
+**Measurement of Jet Substructure ni Heavy Ion Experiments**, The 7th Asian Triangle Heavy-Ion Conference (ATHIC)(ATHIC) [2018.11]   
+**Study of Jet Substructure in heavy ion collisions**, Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]   
 
