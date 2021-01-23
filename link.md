@@ -3,9 +3,10 @@ layout: page
 title: Link
 comments: false
 ---
-* * *
+
 QCD sejong wiki
 <a href="https://qcd.sejong.ac.kr/w/index.php?title=Main_Page">QCDsejong wiki</a>
+* * *
 
 중이온가속기 활용센터 
 <a href="https://risp.ibs.re.kr/html/risp_kr/">RISP</a>
