@@ -112,8 +112,8 @@ comments: false
 
 
   
-  
-**Summary of LAMPS**, The 1st RAON Users Workshop(기초과학연구원 (IBS))
+
+ <!-- **Summary of LAMPS**, The 1st RAON Users Workshop(기초과학연구원 (IBS))
 **Flow of heavy quarks in Pb+Pb and p+Pb collisions in the CMS experiment**, 2019 KPS Spring Meeting(한국물리학회) [2019.04]   
 **Measurement of bottomonia in pp, pPb and PbPb collisions at 5.02 TeV with the CMS detector**,   
 Initial Stages 2019(Brookhaven National Laboratory (DOE))[2019.06]   
@@ -131,7 +131,7 @@ Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11]
 JOURNAL OF THE KOREAN PHYSICAL SOCIETY 75 (2019)   
 **Transverse momentum distribution of Z boson production cross section at s = 8.16 tev**, 새물리 69 (2019)   
 
-
+<!--
 * * *
 ## 2018
 * * *
@@ -139,5 +139,5 @@ JOURNAL OF THE KOREAN PHYSICAL SOCIETY 75 (2019)
 한국 물리학회 가을 학술대회(한국 물리학회 , Korean Physical Society) [2018.10]   
 **Measurement of Jet Substructure ni Heavy Ion Experiments**,   
 The 7th Asian Triangle Heavy-Ion Conference (ATHIC)(ATHIC) [2018.11]   
-**Study of Jet Substructure in heavy ion collisions**, Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]   
+**Study of Jet Substructure in heavy ion collisions**, Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]-->   
 
