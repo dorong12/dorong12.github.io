@@ -66,7 +66,7 @@ comments: false
 <div class="main-content">
        <section>
     
-<h3 id="2018">2019</h3>
+<h3 id="2018">2018</h3>
        
   <li>
     <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
