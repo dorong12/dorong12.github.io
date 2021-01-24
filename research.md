@@ -63,8 +63,10 @@ comments: false
     <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
 <em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
 
-<!--<div class="article-post">-->
-<h3 id="2019">2019</h3>
+<div class="main-content">
+       <section>
+    
+<h3 id="2018">2019</h3>
        
   <li>
     <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
