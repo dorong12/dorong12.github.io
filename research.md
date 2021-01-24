@@ -62,14 +62,14 @@ comments: false
   <li>
     <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
 <em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
-  
+</ul>
 
 <div class="article-post">
 <h3 id="2018">2018</h3>
        
-
+<ul>
   <li>
-    <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
+      <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
 <em>한국 물리학회 가을 학술대회(한국 물리학회 , Korean Physical Society) [2018.10] </em>
   
 
@@ -80,8 +80,7 @@ comments: false
 
   <li>
     <p><strong>Study of Jet Substructure in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em>
- 
+<em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em> 
 </ul> 
 
 
