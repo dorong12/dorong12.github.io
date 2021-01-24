@@ -37,7 +37,7 @@ comments: false
   <li>
     <p><strong>Potential cold QCD program with sPHENIX and the future Electron Ion Collider</strong><br />
 <em>한국물리학회 가을 학술논문발표회(한국물리학회) [2019.10]</em>
-  </li>
+  
 
   <li>
     <p><strong>Study and production of prototype for Active Target Time Projection Chamber</strong><br />
@@ -64,7 +64,7 @@ comments: false
 <em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
 
 <!--<div class="article-post">-->
-<h3 id="2018">2018</h3>
+## 2018
        
   <li>
     <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
@@ -78,6 +78,6 @@ comments: false
   <li>
     <p><strong>Study of Jet Substructure in heavy ion collisions</strong><br />
 <em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em> 
-</ul>
+
 
 
