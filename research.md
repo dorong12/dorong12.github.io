@@ -12,7 +12,7 @@ comments: false
 <ul>
   <li>
     <p><strong>Summary of LAMPS</strong><br />
-<em>The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]</em></li>
+<em>The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]</em>
   
        
   <li>
