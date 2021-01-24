@@ -3,7 +3,7 @@ name: "SEJONG UNIVERSITY NUCLEAR PHYSICS LAB"
 title: "SEJONG UNIVERSITY NUCLEAR PHYSICS LAB"
 description: "this is description"
 meta_description: "mtea_description"
-logo: 'assets/images/sejonglogo.png'
+logo: 'assets/images/nnew_logo.png'
 favicon: 'assets/images/favicon-16x16.png'
 paginate: 12
 url: 'https://dorong12.github.io/'
