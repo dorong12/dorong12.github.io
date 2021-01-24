@@ -12,8 +12,9 @@ comments: false
 <ul>
   <li>
     <p><strong>Summary of LAMPS</strong><br />
-<em>The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]</em>
-  </li>
+<em>The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]</em></li>
+  
+       
   <li>
     <p><strong>Flow of heavy quarks in Pb+Pb and p+Pb collisions in the CMS experiment</strong><br />
 <em>2019 KPS Spring Meeting(한국물리학회) [2019.04]</em>
@@ -63,7 +64,6 @@ comments: false
     <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
 <em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
   </li>
-</ul> 
 
 <div class="article-post">
 <h3 id="2018">2018</h3>
