@@ -123,8 +123,8 @@ section.recent-posts {
     color: #fff;
     border-radius: 4px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
-        padding-left: 1em;
-    padding-right: 1em;
+        padding-left: 0.5em;
+    padding-right: 0.5em;
     
 }
 .navbar-toggler {
