@@ -61,12 +61,13 @@ comments: false
 
   <li>
     <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em> </ul>
+<em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
 
 <ul>
 <div class="main-content">
        <section>
-    
+
+<div class="article-post">
 <h3 id="2018">2018</h3>
        
   <li>
@@ -80,7 +81,7 @@ comments: false
   
   <li>
     <p><strong>Study of Jet Substructure in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em></ul>
+<em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em>
 
 
 
