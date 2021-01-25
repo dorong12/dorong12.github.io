@@ -341,10 +341,10 @@ span.post-name a,span.post-read-more a:hover {
     color: #333;
     border-radius: 3px;
     font-weight: 500;
-    padding: 15px 40px;
+    padding: 15px 25px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
     text-transform: uppercase;
-    font-size: 13px;
+    font-size: 17px;
     letter-spacing: 1px;
 }
 .intro h1 {
@@ -463,7 +463,7 @@ blockquote {
     width: 100vw;
     position: relative;
     left: 50%;
-    right: 50%;
+    right: 20%;
     margin-left: -50vw;
     margin-right: -50vw;
 }
