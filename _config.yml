@@ -1,6 +1,6 @@
 # Site
-name: "SEJONG UNIVERSITY NUCLEAR PHYSICS LAB"
-title: "SEJONG UNIVERSITY NUCLEAR PHYSICS LAB"
+name: "Heavy Ion Experiment"
+title: "Heavy Ion Experiment"
 description: "this is description"
 meta_description: "mtea_description"
 logo: 'assets/images/nnew_logo.png'
@@ -15,7 +15,7 @@ email: 'lsyeong99@sju.ac.kr'
 
 # Authors
 authors:
-  King:
+  Yongsun Kim:
     name: Yongsun Kim
     display_name: Yongsun Kim
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -23,14 +23,14 @@ authors:
     web: 
     twitter: 
     description: "He is the king"
-  etc:
-    name: etc
+  Geunwoo Kim:
+    name: Geunwoo Kim
     display_name: etc
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: 
     web: 
     twitter: 
-    description: "etc.."
+    description: "Ph.D"
 
 # Plugins
 plugins: 
