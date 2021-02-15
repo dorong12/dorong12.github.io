@@ -16,12 +16,12 @@ RESEARCH
 	- etc. 
 
 
- ### Selected Publications<br/>
+ #### Selected Publications<br/>
   - CMS Collaboration, “Measurement of the azimuthal anisotropy of Υ(1S) and Υ(2S) mesons in PbPb collisions at SNN = 5.02 TeV”, arXiv:2006.07707, submitted to Phys. Lett. B (2020)<br/>
   - CMS Collaboration, “Measurement of Nuclear Modification Factors of Y(nS) Mesons in PbPb collisions at SNN = 5.02 TeV”, Phys. Lett. B 790 (2019) 270<br/>
   - CMS Collaboration, “Measurement of prompt and non-prompt J/ψ production in pPb collisions at SNN = 5.02 TeV”, Eur. Phys. J. C 77 (2017) 269<br/>
 
- ### Talks and seminars<br/>
+ #### Talks and seminars<br/>
  
   - IS2019 (The initial stages of high energy nuclear collisions) Parallel talk scheduled,
 “Recent results of charmonium and bottomonia in pp, pPb, and PbPb collisions with
@@ -66,7 +66,7 @@ TeV with CMS”<br/>
   - QuarkMatter2011, Parallel talk<br/>
 “Measurement of Inclusive Isolated Photons in PbPb Collisions with CMS”<br/>
 23 May, Annecy, France<br/><br/>
-SEMINARS AND INVITED LECTURES (SELECTED)<br/>
+#### SEMINARS AND INVITED LECTURES (SELECTED)<br/>
   - Physics Colloquium, Busan National University<br/>
 “Searching for the hidden force"<br/>
  7 Oct. 2020, Busan, Korea<br/>
@@ -90,9 +90,7 @@ SEMINARS AND INVITED LECTURES (SELECTED)<br/>
  12 Sept. 2018, Seoul, Korea<br/>
   - Physics Colloquium, Chonnam National University<br/>
 “The University governed by strong interaction”<br/>
-1 June, 2017, Gwangju, Korea<br/><br/>
-
-			
+1 June, 2017, Gwangju, Korea<br/>
   - Nuclear Physics Seminar, Kansas University<br/>
 “Study of Hard Probes in Heavy Ion collision using CMS detector at the LHC”<br/>
 24 Jan, 2017, Lawrence, Kansas<br/>
@@ -102,7 +100,7 @@ SEMINARS AND INVITED LECTURES (SELECTED)<br/>
   - Physics Colloquium, University of Seoul<br/>
 “Introduction to the heavy ion experiments at the LHC”<br/>
 14 Sept. 2012, Seoul, Korea<br/>
-  - Physics Seminar, Korea Institute for Advanced Study<br/>
+  - Physics, Korea Institute for Advanced Study<br/>
 “QCD matter and jet quenching at the LHC”<br/>
 4 Sept. 2012, Seoul, Korea
  
