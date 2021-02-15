@@ -5,27 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="/assets/images/favicon.png">    
 <title>Members | SJU Nulcear LAB</title>
-    
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
-<link href="/assets/css/theme.css" rel="stylesheet">
-<link href="/assets/css/custom.css" rel="stylesheet">
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115605548-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-115605548-1');
-</script>
-    
-    
   
-    
-
-    
 </head>
     
 
@@ -148,7 +128,7 @@
 <div class="row" style="margin-top:2em;">
 		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
 			<div>
-			<img class="thumbnail" src="/assets/images/prof.jpg" alt="">
+			<img class="thumbnail" src="/assets/images/ms-icon-70x70.png" alt="">
 			</div>	
 			<h4 style="margin-bottom:.5em; margin-top:.5em;">Geunwoo Kim</h4>
 			<p>PhD student<br>
@@ -159,27 +139,13 @@
 <div class="row" style="margin-top:2em;">
 		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
 			<div>
-			<img class="thumbnail" src="/assets/images/prof.jpg" alt="">
+			<img class="thumbnail" src="/assets/images/ms-icon-70x70.png" alt="">
 			</div>	
 			<h4 style="margin-bottom:.5em; margin-top:.5em;">Seunghwan Lee</h4>
 			<p>Brachelor students<br>
 			</p>
 		</div>
 
-  </tbody>
-  <!--Table body-->
-</table>
-<!--Table-->
-	</div>
-	
-</div>
-    </div>
-        
-    
-    
-</section>
-    </div> 
-    -->
 
     </div><!-- /.container --> 
 
@@ -205,7 +171,7 @@
     ================================================== -->
 
     
-</div> <!-- /.site-content>
+ <!-- /.site-content>
 
 <!-- JavaScript
 ================================================== -->
