@@ -1,86 +1,227 @@
----
-layout: page
-title: Research
-comments: false
----
-<div class="main-content">
-       <section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="/assets/images/favicon.png">    
+<title>Members | SJU Nulcear LAB</title>
     
-   <div class="article-post">
-   <h3 id="2019">2019</h3>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
+<link href="/assets/css/theme.css" rel="stylesheet">
+<link href="/assets/css/custom.css" rel="stylesheet">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-115605548-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<ul>
-  <li>
-    <p><strong>Summary of LAMPS</strong><br />
-<em>The 1st RAON Users Workshop(기초과학연구원 (IBS)) [2019.04]</em>
+  gtag('config', 'UA-115605548-1');
+</script>
+    
+    
   
-       
-  <li>
-    <p><strong>Flow of heavy quarks in Pb+Pb and p+Pb collisions in the CMS experiment</strong><br />
-<em>2019 KPS Spring Meeting(한국물리학회) [2019.04]</em>
- 
-  <li>
-    <p><strong>Measurement of bottomonia in pp, pPb and PbPb collisions at 5.02 TeV with the CMS detector</strong><br />
-<em>Initial Stages 2019(Brookhaven National Laboratory (DOE)) [2019.06]</em>
+    
+
+    
+</head>
+    
+
+    
+
+<body class="layout-page">
+
+    
+<!-- Begin Menu Navigation
+================================================== -->
+<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="container">
+
+        <!-- Begin Logo -->
+        <a class="navbar-brand" href="/">
+        <img src="/assets/images/logo.png" alt="SNU UX LAB">
+        </a>
+        <!-- End Logo -->
+
+        <!-- Begin Menu -->
+        <div class="collapse navbar-collapse" id="navbarsWow">
+            
+            <!-- Begin Menu -->
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item">                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+                
+                <li class="nav-item">                
+                    <a class="nav-link" href="/about">About</a>
+                </li> 
+                
+                <!-- <li class="nav-item dropdown">
+                    <a style="text-decoration: line-through;" class="nav-link" href="#">News</a>
+                </li> -->
+
+                <li class="nav-item">                
+                    <a class="nav-link" href="/people.html">People</a>
+                </li> 
+                
+                 <li class="nav-item">                
+                    <a style="text-decoration: line-through;" class="nav-link" href="#">Project</a>
+                </li> 
+
+                 <li class="nav-item">                
+                    <a class="nav-link" href="/paper">Publications</a>
+                </li> 
+            
+                
+            </ul>
+            <!-- End Menu -->
+            
+        </div>
+    </div>
+</header>
+    
+
+    
+<!-- End Menu Navigation
+================================================== -->
+    
+<div class="site-content">
+    
+    <div class="container">
+
+    <!-- Site Title
+    ================================================== -->
+
+    <div class="mainheading" style="display:none;">
+        <h1 class="sitetitle">SNU UX LAB</h1>
+        <p class="lead">
+             Seoul National University UX LAB
+        </p>
+    </div>
 
 
-  <li>
-    <p><strong>Review of quarkonia measurements in recent heavy ion experiments at the LHC, and the prospective results</strong><br />
-<em>HaPhy-CENum joint workshop: The future of lattice studies in Korea(APCTP, CENum 공동개최 [2019-09]</em>
-  
+    <!-- Content
+    ================================================== --> 
+    <div class="main-content">
+        <section>
+    <div class="section-title">
+        <h2><span>People</span></h2>
+    </div>
+    
+    <div class="article-post">
+    <style>
+	table th {
+		border-top:0px !important;
+		font-size:0.9em ;
+		font-weight: 300;
+	}
+</style>
+<div class="container">
+	
+<h2>Group Leader</h2>
+	<div class="row">
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
+			<div>
+			<img class="thumbnail" src="/assets/images/prof.jpg" alt="">
+			</div>	
+			<h4 style="margin-bottom:.5em; margin-top:.5em;">Yongsun Kim</h4>
+			<p>Professor<br></p>
+		</div>
+		
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;"></div>
 
-  <li>
-    <p><strong>Physics goals and detector setup for the low energy LAMPS</strong><br />
-<em>NuSYM2019 - International Symposium on Nuclear Symmetry Energy(Asian Nuclear Physics Association [2019.10]</em>
- 
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
+		</div>
 
-  <li>
-    <p><strong>Potential cold QCD program with sPHENIX and the future Electron Ion Collider</strong><br />
-<em>한국물리학회 가을 학술논문발표회(한국물리학회) [2019.10]</em>
-  
-
-  <li>
-    <p><strong>Study and production of prototype for Active Target Time Projection Chamber</strong><br />
-<em>한국물리학회 가을 학술논문발표회(한국물리학회) [2019-10]</em>
-  
-
-  <li>
-    <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
-  
-
-  <li>
-    <p><strong>Study of Z Boson Cross Section in pp Collision at root s=8.16 TeV</strong><br />
-<em>JOURNAL OF THE KOREAN PHYSICAL SOCIETY 75 (2019)</em>
-  
-
-  <li>
-    <p><strong>Transverse momentum distribution of Z boson production cross section at s = 8.16 tev</strong><br />
-<em>새물리 69 (2019)</em>
-  
-
-  <li>
-    <p><strong>Azimuthal flow of heavy flavored hadrons and quarkonia in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting(아시아태평양 이론물리센터 (APCTP)) [2019-11] </em>
-
-<div class="main-content">
-       <section>
-
-<div class="article-post">
-<h3 id="2018">2018</h3>
-       
-  <li>
-    <p><strong>The Detector Development and Physics Program in sPHENIX Experiment</strong><br />
-<em>한국 물리학회 가을 학술대회(한국 물리학회 , Korean Physical Society) [2018.10] </em>
-  
-
-  <li>
-    <p><strong>Measurement of Jet Substructure ni Heavy Ion Experiments</strong><br />
-<em>The 7th Asian Triangle Heavy-Ion Conference (ATHIC)(ATHIC) [2018.11]</em>
-  
-  <li>
-    <p><strong>Study of Jet Substructure in heavy ion collisions</strong><br />
-<em>Heavy Ion Meeting (APCTP, 강원대학교) [2018.11]</em>
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
+		</div>
+	</div>
 
 
+<h2>Student</h2>
+<div class="row" style="margin-top:2em;">
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
+			<div>
+			<img class="thumbnail" src="/assets/images/prof.jpg" alt="">
+			</div>	
+			<h4 style="margin-bottom:.5em; margin-top:.5em;">Geunwoo Kim</h4>
+			<p>PhD student<br>
+			</p>
+		</div>
 
+
+<div class="row" style="margin-top:2em;">
+		<div class="col-sm-3 col-md-3 col-lg-3" style="text-align: center;">
+			<div>
+			<img class="thumbnail" src="/assets/images/prof.jpg" alt="">
+			</div>	
+			<h4 style="margin-bottom:.5em; margin-top:.5em;">Seunghwan Lee</h4>
+			<p>Brachelor students<br>
+			</p>
+		</div>
+
+  </tbody>
+  <!--Table body-->
+</table>
+<!--Table-->
+	</div>
+	
+</div>
+    </div>
+        
+    
+    
+</section>
+    </div> 
+    -->
+
+    </div><!-- /.container --> 
+
+
+    <!-- Begin Footer
+    ================================================== -->
+    <footer class="footer">
+
+        <div class="container">
+
+            <div class="copyright">
+                <p class="pull-right">
+                Copyright © 2019 SNU UX LAB.
+                </p>
+                
+                <div class="clearfix"></div>
+            </div>
+
+        </div>
+
+    </footer>
+    <!-- End Footer
+    ================================================== -->
+
+    
+</div> <!-- /.site-content>
+
+<!-- JavaScript
+================================================== -->
+    
+<script src="/assets/js/jquery.min.js"></script>
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+    
+<script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
+    
+<script src="/assets/js/theme.js"></script>    
+    
+</body>
+    
+</html>
