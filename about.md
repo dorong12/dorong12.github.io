@@ -4,9 +4,8 @@ title: About
 comments: false
 ---
 
-* * *
-## RESEARCH
-* * *
+RESEARCH
+---------------------------
  
  ### Yongsun Lab<br/>
   - Study of Quark Gluon Plasma with CMS detector at the LHC<br/>
@@ -28,39 +27,39 @@ comments: false
 “Recent results of charmonium and bottomonia in pp, pPb, and PbPb collisions with
 the CMS detector”<br/>
 10 Jan 2021, Rehavot, Israel (ONLINE)<br/>
-  - NuSYM2019 (International Symposium on Nuclear Symmetry Energy) Invited talk,<br/>
+  - NuSYM2019 *(International Symposium on Nuclear Symmetry Energy) Invited talk,*<br/>
 “Low-Energy LAMPS experiment using RAON”<br/>
 3 Oct 2019, Danang, Vietnam<br/>
-  - IS2019 (The initial stages of high energy nuclear collisions) Parallel talk,<br/>
+  - IS2019 *(The initial stages of high energy nuclear collisions) Parallel talk,*<br/>
 “Measurement of Bottomonia in pp, pPb and PbPb collisions at 5.02 TeV”<br/>
 26 Jun 2019, NY, USA<br/>
-  - QuarkMatter2018 (International Conference on Ultra-Relativistic Nucleus-Nucleus
-Collisions) Parallel talk<br/>
+  - QuarkMatter2018 *(International Conference on Ultra-Relativistic Nucleus-Nucleus
+Collisions)* Parallel talk<br/>
 “The Detector Development and Physics Program in sPHENIX experiment at RHIC”<br/>
 15 May 2018, Venice, Italy<br/>
-  - LHCP2017 (The Fifth Annual Large Hadron Collider Physics) Parallel talk<br/>
+  - LHCP2017 *(The Fifth Annual Large Hadron Collider Physics)* Parallel talk<br/>
 “New results on jets and heavy flavor in heavy ion collisions with CMS”<br/>
 18 May 2017, Shanghai, China<br/>
-  - HardProbes2016 (International Conference on Hard and Electromagnetic Probes of
-High-energy Nuclear Collisions) Parallel talk<br/>
+  - HardProbes2016 *(International Conference on Hard and Electromagnetic Probes of
+High-energy Nuclear Collisions)* Parallel talk<br/>
 “Bottomonium production and phenomena in pp, pPb and PbPb collisions at 2.76
 and 5.02 TeV with CMS”<br/>
 22 September 2016, Wuhan, China<br/>
-  - ISMD2016 (International Symposium on Multiparticle Dynamics) Plenary talk<br/>
+  - ISMD2016 *(International Symposium on Multiparticle Dynamics)* Plenary talk<br/>
 “Overview of the recent jet results in heavy ion collisions at the LHC”<br/>
 29 Aug. 2016, Jeju, Korea<br/>
-  - QuarkMatter2015 (International Conference on Ultra-Relativistic Nucleus-Nucleus
-Collisions) Parallel talk<br/>
+  - QuarkMatter2015 *(International Conference on Ultra-Relativistic Nucleus-Nucleus
+Collisions)* Parallel talk<br/>
 “CMS Charmonia results from Run I”<br/>
 27 Sept. 2015, Kobe, Japan<br/>
 			
-  - JPS2015 (Japanese Physical Society Meeting) Plenary talk<br/>
+  - JPS2015 *(Japanese Physical Society Meeting)* Plenary talk<br/>
 “Recent heavy flavor results of CMS heavy ion experiments at LHC”<br/>
 17 Mar. 2015, Waseda University, Tokyo, Japan<br/>
-  - SQM2015 (Strangeness in Quark Matter) Plenary talk<br/>
+  - SQM2015 *(Strangeness in Quark Matter)* Plenary talk<br/>
 “CMS results on heavy flavour and quarkonia”<br/>
 6 Jul. 2015, Dubna, Russia<br/>
-  - HQ2012 (Hot Quarks Workshop Hot Quarks) Plenary talk<br/>
+  - HQ2012 *(Hot Quarks Workshop Hot Quarks)* Plenary talk<br/>
 “Study of jet quenching using photon-jet events in PbPb collisions at 2.76
 TeV with CMS”<br/>
 14 Oct. 2012, Guánica, Puerto Rico<br/>
@@ -87,7 +86,7 @@ SEMINARS AND INVITED LECTURES (SELECTED)<br/>
 “Study of Jet Substructure in Heavy Ion Collisions at the LHC"<br/>
  22 Nov. 2018, Seoul, Korea<br/>
   - Physics Colloquium, Sejong University<br/>
-“Serching of the Hidden Force"<br/><br/>
+“Serching of the Hidden Force"<br/>
  12 Sept. 2018, Seoul, Korea<br/>
   - Physics Colloquium, Chonnam National University<br/>
 “The University governed by strong interaction”<br/>
