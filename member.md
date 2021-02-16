@@ -16,16 +16,15 @@
     
 <!-- Begin Menu Navigation
 ================================================== -->
-<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+<!--<header class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsWow" aria-controls="navbarsWow" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="container">
-
+    <div class="container"> -->
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="/">
+        <!--<a class="navbar-brand" href="/">
         <img src="/assets/images/logo.png" alt="SNU UX LAB">
-        </a>
+        </a>-->
         <!-- End Logo -->
 
         <!-- Begin Menu -->
@@ -64,7 +63,7 @@
             
         </div>
     </div>
-</header>
+<!--</header> -->
     
 
     
@@ -175,19 +174,3 @@
 
 <!-- JavaScript
 ================================================== -->
-    
-<script src="/assets/js/jquery.min.js"></script>
-    
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-    
-<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
-    
-<script type='text/javascript' src='/assets/js/masonry.pkgd.min.js'></script>
-    
-<script src="/assets/js/theme.js"></script>    
-    
-</body>
-    
-</html>
