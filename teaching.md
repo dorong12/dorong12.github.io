@@ -4,8 +4,7 @@ title: Teaching
 comments: false
 ---
 
-Teaching
----------------------------
+
 - General Physics for freshman (2019 ~ 2021)<br/>
 - Mathematical Physics I, Spring 2019, 2020, 2021<br/>
 - Classical Mechanics, Fall 2020<br/>
